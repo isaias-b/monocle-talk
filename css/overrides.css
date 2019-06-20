@@ -1,0 +1,10 @@
+img.no-decorations {
+    background: none !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+
+img.filter-invert {
+    filter: invert(1);
+}
