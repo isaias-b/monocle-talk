@@ -1,3 +1,3 @@
 #!/bin/bash
 
-npx reveal-md SLIDES.md -w --theme css/theme/isaias.css --highlight-theme darcula --scripts js/config.js
+npx reveal-md index.md -w --theme theme.css --highlight-theme darcula --scripts config.js
