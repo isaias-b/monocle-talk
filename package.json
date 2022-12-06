@@ -2,6 +2,6 @@
   "name": "monocle-talk",
   "license": "MIT",
   "dependencies": {
-    "reveal-md": "^3.4.7"
+    "reveal-md": "^5.4.0"
   }
 }
